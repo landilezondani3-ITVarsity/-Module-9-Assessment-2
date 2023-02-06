@@ -24,7 +24,7 @@ body{
 }
 
 #cities tr:nth-child(even){
-    background-color:dimgray;
+    background-color:skyblue;
 }
 
 .col1{
